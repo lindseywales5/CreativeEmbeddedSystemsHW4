@@ -1,8 +1,10 @@
 # CreativeEmbeddedSystemsHW4
 
 This project is a kinetic sculpture that moves when the endpoint at http://165.227.76.232:3000/lbw2149/running returns true. 
+
 **Hardware Used**
 -Stepper motor and driver
+
 -Servo motor 
 -ESP32
 -Breadboard
